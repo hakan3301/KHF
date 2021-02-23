@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/if_home_216242"
+            android:title="ANA SAYFA" />
+
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="AMACIMIZ" />
+        <item
+            android:id="@+id/nav_slideshow1"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="FESTIVAL PROGRAMI" />
+
+
+        <item
+
+            android:title="HAKKIMIZDA">
+            <menu>
+                <item
+                    android:id="@+id/nav_share11"
+                    android:icon="@drawable/if_star_"
+                    android:title="KAN FEST 2018" />
+
+                <item
+                    android:id="@+id/nav_share12"
+                    android:icon="@drawable/if_star_"
+                    android:title="KAN FEST 2017" />
+                <item
+                    android:id="@+id/nav_share13"
+                    android:icon="@drawable/if_star_"
+                    android:title="KAN FEST 2016" />
+            </menu>
+
+        </item>
+
+
+    </group>
+
+    <item
+        android:id="@+id/nav_send"
+        android:icon="@drawable/if_star_"
+        android:title="OYLAMA" />
+    <item
+        android:id="@+id/nav_send1"
+        android:icon="@drawable/ic_menu_send"
+        android:title="SPONSORLAR" />
+
+    <item android:title="ILETISIM">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="BIZE YAZIN" />
+
+
+        </menu>
+
+
+    </item>
+
+</menu>
