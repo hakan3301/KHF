@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "263316513042",
+    "firebase_url": "https://kanfilmfest-8d7f3.firebaseio.com",
+    "project_id": "kanfilmfest-8d7f3",
+    "storage_bucket": "kanfilmfest-8d7f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263316513042:android:b18a5a9ba78853ca",
+        "android_client_info": {
+          "package_name": "hkn.khf.khf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263316513042-r665ad9b9gct44g0tv1gtt2or621id2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hkn.khf.khf",
+            "certificate_hash": "1bda620bebc26b82db2785072eb84857407222d6"
+          }
+        },
+        {
+          "client_id": "263316513042-hpch24t6vi4985kv6464k0fvgqjgspog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5eK0oA1r6hkUDNzoZWl6kn-FtL-9gWyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263316513042-hpch24t6vi4985kv6464k0fvgqjgspog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
